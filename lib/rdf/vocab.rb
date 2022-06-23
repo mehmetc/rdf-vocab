@@ -369,6 +369,7 @@ module RDF
       sioctypes:  {uri: "http://rdfs.org/sioc/types#", class_name: "SiocTypes"},
       skos:   {uri: "http://www.w3.org/2004/02/skos/core#"},
       skosxl: {uri: "http://www.w3.org/2008/05/skos-xl#", source: "http://www.w3.org/TR/skos-reference/skos-xl.rdf"},
+      time: {uri:"http://www.w3.org/2006/time#", source: "https://www.w3.org/2006/time"},
       v:      {uri: "http://rdf.data-vocabulary.org/#", source: "etc/rdf.data-vocab.ttl"},
       vmd:    {uri: "http://data-vocabulary.org/", source: "etc/data-vocab.ttl"},
       vcard:  {uri: "http://www.w3.org/2006/vcard/ns#"},

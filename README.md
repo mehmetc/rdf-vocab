@@ -87,6 +87,7 @@ will limit the vocabularies which are returned from `RDF::Vocabulary.each`, whic
 * RDF::Vocab::SiocTypes - [SIOC Types Ontology](http://rdfs.org/sioc/spec/) (SIOC)
 * RDF::Vocab::SKOS      - [Simple Knowledge Organization System](http://www.w3.org/TR/skos-reference/) (W3C)
 * RDF::Vocab::SKOSXL    - [SKOS eXtension for Labels](http://www.w3.org/TR/skos-reference/skos-xl.html) (W3C)
+* RDF::Vocab::TIME      - [Time ontology extended for non-Gregorian calendar applications](https://www.w3.org/TR/owl-time/) (W3C)
 * RDF::Vocab::V         - [RDF data vocabulary](http://www.data-vocabulary.org)
 * RDF::Vocab::VMD       - [RDF data vocabulary](http://www.data-vocabulary.org)
 * RDF::Vocab::VCARD     - [Ontology for vCards](http://www.w3.org/TR/vcard-rdf/) (W3C)
